@@ -7,6 +7,7 @@ require (
 	github.com/gorilla/mux v1.8.0
 	github.com/gorilla/sessions v1.2.1
 	go.uber.org/dig v1.16.1
+	golang.org/x/text v0.9.0
 	gopkg.in/asaskevich/govalidator.v4 v4.0.0-20160518190739-766470278477
 )
 
